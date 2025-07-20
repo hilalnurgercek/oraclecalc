@@ -10,3 +10,4 @@ Technologies & Libraries
 - PyAudio – for capturing audio input from the microphone.
 - re (Regex) – for parsing and matching recognized text.
 - Threading – to handle voice input alongside GUI updates without freezing the interface.# oraclecalc
+<img width="598" height="725" alt="image" src="https://github.com/user-attachments/assets/9ac2048f-89be-4660-8b68-a9a3e102c455" />
